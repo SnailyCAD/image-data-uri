@@ -1,6 +1,6 @@
 import fs from "fs-extra";
 import { assert, describe, it, afterEach } from "vitest";
-import ImageDataURI from "../lib/image-data-uri";
+import * as ImageDataURI from "../lib/image-data-uri";
 
 const matchMediaType = /^data:([^;,]+)[;,]/;
 

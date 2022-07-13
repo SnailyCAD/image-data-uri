@@ -1,6 +1,6 @@
 {
-  "name": "image-data-uri",
-  "version": "2.0.1",
+  "name": "@snaily-cad/image-data-uri",
+  "version": "3.0.0",
   "description": "Library to easily decode/encode Data URI images",
   "main": "./lib/image-data-uri.js",
   "bin": "./bin/magicli.js",
