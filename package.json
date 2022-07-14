@@ -1,6 +1,6 @@
 {
   "name": "@snaily-cad/image-data-uri",
-  "version": "3.0.1",
+  "version": "3.1.0",
   "description": "Library to easily decode/encode Data URI images",
   "main": "./lib/image-data-uri.js",
   "dependencies": {
