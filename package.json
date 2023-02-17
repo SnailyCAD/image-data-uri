@@ -6,7 +6,7 @@
   "dependencies": {
     "fs-extra": "^10.1.0",
     "mime-types": "^2.1.35",
-    "undici": "^5.7.0"
+    "undici": "^5.19.1"
   },
   "author": {
     "name": "Diego ZoracKy",
@@ -32,6 +32,6 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "vitest": "^0.18.0"
+    "vitest": "^0.28.5"
   }
 }
